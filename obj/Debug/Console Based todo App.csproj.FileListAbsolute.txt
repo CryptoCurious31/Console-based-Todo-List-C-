@@ -1,0 +1,7 @@
+C:\xampp\htdocs\C#\Console Based todo App\Console Based todo App\bin\Debug\Console Based todo App.exe.config
+C:\xampp\htdocs\C#\Console Based todo App\Console Based todo App\bin\Debug\Console Based todo App.exe
+C:\xampp\htdocs\C#\Console Based todo App\Console Based todo App\bin\Debug\Console Based todo App.pdb
+C:\xampp\htdocs\C#\Console Based todo App\Console Based todo App\obj\Debug\Console Based todo App.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\Console Based todo App\Console Based todo App\obj\Debug\Console Based todo App.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\Console Based todo App\Console Based todo App\obj\Debug\Console Based todo App.exe
+C:\xampp\htdocs\C#\Console Based todo App\Console Based todo App\obj\Debug\Console Based todo App.pdb
